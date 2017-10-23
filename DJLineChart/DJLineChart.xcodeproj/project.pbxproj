@@ -452,6 +452,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Keisun.DJLineChart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -464,6 +465,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Keisun.DJLineChart;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -536,6 +538,7 @@
 				F07EB6AB1F974204000616C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F07EB6AC1F974204000616C7 /* Build configuration list for PBXNativeTarget "DJLineChartTests" */ = {
 			isa = XCConfigurationList;
@@ -544,6 +547,7 @@
 				F07EB6AE1F974204000616C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F07EB6AF1F974204000616C7 /* Build configuration list for PBXNativeTarget "DJLineChartUITests" */ = {
 			isa = XCConfigurationList;
@@ -552,6 +556,7 @@
 				F07EB6B11F974204000616C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
